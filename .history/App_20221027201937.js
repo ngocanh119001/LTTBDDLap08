@@ -12,8 +12,9 @@ export default function App() {
   return (
     <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
       {/* Cau 1 */}
-      {/* <Text style={{fontSize:20, fontWeight:'bold', color:'lightblue'}}>Bài Tập của Ngọc Ánh</Text> */}
-      {/* <FadeInView/> */}
+      <FadeInView style={{height: 50 }}>
+        <Text style={{ fontSize: 28, textAlign: 'center', margin: 10,fontWeight:'bold',color:'green', }}>Welcome to Animation</Text>
+      </FadeInView> 
 
        {/* Cau 2 */}
       {/* <MoveX/> */}
@@ -31,7 +32,7 @@ export default function App() {
       {/* <BellAnimation/> */}
 
       {/* Cau 7 */}
-      {/* <Circle/>  */}
+      <Circle/> 
       
     </View>
   );

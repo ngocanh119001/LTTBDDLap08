@@ -28,7 +28,7 @@ export default function App() {
       {/* <Move/> */}
 
       {/* Cau 6 */}
-      {/* <BellAnimation/> */}
+      <BellAnimation/>
 
       {/* Cau 7 */}
       {/* <Circle/>  */}

@@ -12,7 +12,7 @@ export default function App() {
   return (
     <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
       {/* Cau 1 */}
-      {/* <Text style={{fontSize:20, fontWeight:'bold', color:'lightblue'}}>Bài Tập của Ngọc Ánh</Text> */}
+      <Text style={{fontSize:20, fontWeight:'bold', color:'lightblue'}}>Bài Tập của Ngọc Ánh</Text>
       {/* <FadeInView/> */}
 
        {/* Cau 2 */}

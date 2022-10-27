@@ -31,7 +31,7 @@ export default function App() {
       {/* <BellAnimation/> */}
 
       {/* Cau 7 */}
-      {/* <Circle/>  */}
+      <Circle/> 
       
     </View>
   );

@@ -19,7 +19,7 @@ export default function App() {
       {/* <MoveX/> */}
 
       {/* Cau 3 */}
-      {/* <TexAnimation/> */}
+      <TexAnimation/>
 
       {/* Cau 4 */}
       {/* <Cau4/> */}

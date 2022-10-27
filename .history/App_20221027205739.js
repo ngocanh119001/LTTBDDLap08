@@ -16,7 +16,7 @@ export default function App() {
       {/* <FadeInView/> */}
 
        {/* Cau 2 */}
-      {/* <MoveX/> */}
+      <MoveX/>
 
       {/* Cau 3 */}
       {/* <TexAnimation/> */}

@@ -22,7 +22,7 @@ export default function App() {
       {/* <TexAnimation/> */}
 
       {/* Cau 4 */}
-      {/* <Cau4/> */}
+      <Cau4/>
 
        {/* Cau 5 */}
       {/* <Move/> */}
